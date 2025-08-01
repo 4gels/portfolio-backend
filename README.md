@@ -1,4 +1,4 @@
-![Portfolio Backend Logo](public/icons/logo.png)
+![Portfolio Backend Logo]([public/icons/logo.png](https://raw.githubusercontent.com/4gels/icons/e955ad2756bd98f9ccf519bbefeb8a44dd5362d3/logo.svg))
 
 # Portfolio Backend
 
